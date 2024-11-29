@@ -1,6 +1,6 @@
-# Contributing to Langflow
+# Contributing to AI Agents
 
-This guide is intended to help you get started contributing to Langflow.
+This guide is intended to help you get started contributing to AI.
 As an open-source project in a rapidly developing field, we are extremely open
 to contributions, whether it be in the form of a new feature, improved infra, or better documentation.
 
@@ -33,16 +33,16 @@ so that more people can benefit from it.
 
 ## Contributing code and documentation
 
-You can develop Langflow locally via uv + NodeJS.
+You can develop AI AGENTs locally via uv + NodeJS.
 
-### Clone the Langflow Repository
+### Clone the AI AGENTS Repository
 
 Navigate to the [Langflow GitHub repository](https://github.com/langflow-ai/langflow) and press "Fork" in the upper right-hand corner.
 
 Add the new remote to your local repository on your local machine:
 
 ```bash
-git remote add fork https://github.com/<your username>/langflow.git
+git remote add fork https://github.com/Vi19Z/Multi-AI-Agents.git
 ```
 
 We also provide a .vscode/launch.json file for debugging the backend in VSCode, which is a lot faster than using docker compose.
@@ -55,13 +55,13 @@ Setting up hooks:
 make init
 ```
 
-This will set up the development environment by installing backend and frontend dependencies, building the frontend static files, and initializing the project. It runs `make install_backend`, `make install_frontend`, `make build_frontend`, and finally `uv run langflow run` to start the application.
+This will set up the development environment by installing backend and frontend dependencies, building the frontend static files, and initializing the project. It runs `make install_backend`, `make install_frontend`, `make build_frontend`, and finally `uv run Ai Agents run` to start the application.
 
 It is advised to run `make lint`, `make format`, and `make unit_tests` before pushing to the repository.
 
 ### Run locally (uv and Node.js)
 
-Langflow can run locally by cloning the repository and installing the dependencies. We recommend using a virtual environment to isolate the dependencies from your system.
+AI Agents can run locally by cloning the repository and installing the dependencies. We recommend using a virtual environment to isolate the dependencies from your system.
 
 Before you start, make sure you have the following installed:
 
