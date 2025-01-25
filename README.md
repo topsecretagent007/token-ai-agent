@@ -4,7 +4,7 @@
 
 <p align="center" style="font-size: 12px;">
     The Multi-AI Agent is a groundbreaking integration of artificial intelligence and blockchain technology, designed to provide unparalleled efficiency, security, and intelligence across decentralized ecosystems. This agent acts as a universal AI orchestrator.
-
+</p>
 
 <div align="center">
   <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
@@ -25,7 +25,8 @@
 7. **Observability** with LangSmith, LangFuse, or LangWatch integration.
 8. **Enterprise-grade** security and scalability with free DataStax Langflow cloud service.
 9. **Customize workflows** or create flows entirely just using Python.
-10. **Ecosystem integrations** as reusable components for any model, API or database.
+10. **Ecosystem integrations** as reusable components for any model, API, or database.
+11. **Solana Token Support** – Seamlessly integrate Solana blockchain tokens into workflows, enabling decentralized finance (DeFi) capabilities.
 
 ![Integrations](./docs/static/img/integrations.jpg)
 
@@ -39,3 +40,6 @@ pip install AIAgent
 ## ⭐ Stay up-to-date
 
 Star Langflow on GitHub to be instantly notified of new releases.
+
+Telegram : https://t.me/topsecretagent_007
+
